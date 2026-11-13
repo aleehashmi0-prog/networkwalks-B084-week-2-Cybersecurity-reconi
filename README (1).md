@@ -8,9 +8,9 @@
 
 | Field | Detail |
 |---|---|
-| **Pentester Name** | [Touseef Tariq] |
+| **Pentester Name** | [Aleeha Hashmi] |
 | **Program/Batch** | [B083-Networkwalks] |
-| **Date** | [15 september 2026] |
+| **Date** | [13 November 2026] |
 | **Modules Completed** | W2-PM1 (Multiple Kali Tools)<br>W2-PM5 (Zenmap Scanning) |
 | **Client/Target** | `networkwalks.com` for authorized educational reconnaissance<br>My own local LAN network for Zenmap scanning |
 | **Permission Secured?** | Yes — only authorized systems and my own local network were used |
